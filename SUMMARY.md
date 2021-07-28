@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Quickstart](quickstart/README.md)
+* [Initial page](README.md)
+
