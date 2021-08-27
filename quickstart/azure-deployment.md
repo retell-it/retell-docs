@@ -1,7 +1,7 @@
 # Retell Platform
 ## Azure Deployment
 ### Requirements
-- Azure Kubernetes Service
+- Azure Kubernetes Service (AKS)
 - Azure Database
 - Azure Storage
 - Azure AD
@@ -9,7 +9,8 @@
 - Docker 
 
 ### Azure AKS Setup
-
+Azure AKS environment diagram
+![Retell AKS Environment](/azure-deployment.png)
 
 ### Azure Cluster Recommendation
 - Kubernetes version: 1.19.6
