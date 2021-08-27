@@ -10,7 +10,7 @@
 
 ### Azure AKS Setup
 Azure AKS environment diagram
-![Retell AKS Environment](/azure-deployment.png)
+![Retell AKS Environment](azure-deployment.png)
 
 ### Azure Cluster Recommendation
 - Kubernetes version: 1.19.6
